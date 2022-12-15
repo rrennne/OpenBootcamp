@@ -1,0 +1,15 @@
+C:\Users\renee\Documents\OpenBootcamp\Ejercicio#2p\bin\Debug\net6.0\Ejercicio#2p.exe
+C:\Users\renee\Documents\OpenBootcamp\Ejercicio#2p\bin\Debug\net6.0\Ejercicio#2p.deps.json
+C:\Users\renee\Documents\OpenBootcamp\Ejercicio#2p\bin\Debug\net6.0\Ejercicio#2p.runtimeconfig.json
+C:\Users\renee\Documents\OpenBootcamp\Ejercicio#2p\bin\Debug\net6.0\Ejercicio#2p.dll
+C:\Users\renee\Documents\OpenBootcamp\Ejercicio#2p\bin\Debug\net6.0\Ejercicio#2p.pdb
+C:\Users\renee\Documents\OpenBootcamp\Ejercicio#2p\obj\Debug\net6.0\Ejercicio#2p.csproj.AssemblyReference.cache
+C:\Users\renee\Documents\OpenBootcamp\Ejercicio#2p\obj\Debug\net6.0\Ejercicio#2p.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renee\Documents\OpenBootcamp\Ejercicio#2p\obj\Debug\net6.0\Ejercicio#2p.AssemblyInfoInputs.cache
+C:\Users\renee\Documents\OpenBootcamp\Ejercicio#2p\obj\Debug\net6.0\Ejercicio#2p.AssemblyInfo.cs
+C:\Users\renee\Documents\OpenBootcamp\Ejercicio#2p\obj\Debug\net6.0\Ejercicio#2p.csproj.CoreCompileInputs.cache
+C:\Users\renee\Documents\OpenBootcamp\Ejercicio#2p\obj\Debug\net6.0\Ejercicio#2p.dll
+C:\Users\renee\Documents\OpenBootcamp\Ejercicio#2p\obj\Debug\net6.0\refint\Ejercicio#2p.dll
+C:\Users\renee\Documents\OpenBootcamp\Ejercicio#2p\obj\Debug\net6.0\Ejercicio#2p.pdb
+C:\Users\renee\Documents\OpenBootcamp\Ejercicio#2p\obj\Debug\net6.0\Ejercicio#2p.genruntimeconfig.cache
+C:\Users\renee\Documents\OpenBootcamp\Ejercicio#2p\obj\Debug\net6.0\ref\Ejercicio#2p.dll
