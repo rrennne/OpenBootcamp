@@ -7,5 +7,6 @@ internal class Program
         // int numerolf;
         // int numeroWhile;
         System.Console.WriteLine("Hola");
+        System.Console.WriteLine("Este es un nuevo hola");
     }
 }
