@@ -1,4 +1,4 @@
-﻿//EJERCICIO TEMA #4
+﻿//EJERCICIO #2, TEMA #4
 
 internal class Program
 {
